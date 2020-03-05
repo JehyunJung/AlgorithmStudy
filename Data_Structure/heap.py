@@ -1,4 +1,5 @@
 from random import *
+import sys
 class Heap:
     def __init__(self,data):
         self.heap=list()
@@ -11,7 +12,7 @@ class Heap:
         child=self.heapSize
         self.heap.append(data)
         parent=child//2
-        while(parent>=1 and data > self.heap[parent]):
+        while(parent>=1 and data <= self.heap[parent]):
             self.heap[child]=self.heap[parent]
             child=parent
             parent=child//2
@@ -22,9 +23,9 @@ class Heap:
         key=self.heap[index]
         while(parent*2 <= self.heapSize):
             largerChild=parent*2
-            if parent*2 < self.heapSize and self.heap[parent*2] < self.heap[parent*2+1]:
+            if parent*2 < self.heapSize and self.heap[parent*2] >= self.heap[parent*2+1]:
                 largerChild=parent*2+1
-            if self.heap[parent]>self.heap[largerChild]:
+            if key<=self.heap[largerChild]:
                 break
             self.heap[parent]=self.heap[largerChild]
             parent=largerChild
@@ -38,17 +39,31 @@ class Heap:
         del self.heap[self.heapSize+1]
         return item
 
+    def isEmpty(self):
+        if self.heapSize <=1:
+            return True
+        return False
+
     def makeHeap(self,data):
         for i in range(self.heapSize//2,0,-1):
             self.siftdown(i)
+
+    def heapSort(self):
+        sorted_data=list()
+        while not self.isEmpty():
+            print(self.heap)
+            sorted_data.append(self.delete())
+        return sorted_data
+
+
 def main():
+    X=[1,4,2,8,9,4,2,6,7,8,1]
     heap=Heap(1)
-    for i in range(0,10):
-        item=randint(0,100)
-        heap.insert(item)
-        print("{}. inserted item {} heapSize: {}".format(i,item,heap.heapSize))
-    print(heap.heap)
-    print('deleted item:',heap.delete())
-    print(heap.heap)
+    for data in X[1:]:
+        heap.insert(data)
+    X=heap.heapSort()
+    print(X)
+
 if __name__ == "__main__" :
-    main()
+    #main()
+    print(sys.getrecursionlimit())
