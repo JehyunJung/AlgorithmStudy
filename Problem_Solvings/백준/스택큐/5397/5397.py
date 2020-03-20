@@ -6,7 +6,7 @@ def solution(test_cases):
         for character in password:
             if character == '<':
                 if leftstack:
-                    rightstack.insert(0,leftstack.pop())
+                    rightstack.append(leftstack.pop())
             elif character =='>':
                 if rightstack:
                     leftstack.append(rightstack.pop())
@@ -15,7 +15,7 @@ def solution(test_cases):
                     leftstack.pop()
             elif character not in ['<','>','-']:
                 leftstack.append(character)
-        leftstack.extend(rightstack)
+        leftstack.extend(reversed(rightstack))
         print(''.join(leftstack))
 
 if __name__ =="__main__":
