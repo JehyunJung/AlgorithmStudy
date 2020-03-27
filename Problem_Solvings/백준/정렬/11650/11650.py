@@ -21,7 +21,13 @@ def quickSort(data):
 
     return quickSort(left_data) + equal_data + quickSort(right_data)
 
-def solution(data):
+def solution():
+    num=int(input())
+    data=[]
+    for _ in range(num):
+        xpos,ypos=list(map(int, input().split(' ')))
+        data.append((xpos,ypos))
+
     #sorted_data=quickSort(data)
     sorted_data=sorted(data,key=itemgetter(0,1))
 
@@ -29,9 +35,4 @@ def solution(data):
         print(element[0],element[1])
 
 if __name__ == "__main__":
-    num=int(input())
-    data=[]
-    for _ in range(num):
-        xpos,ypos=list(map(int, input().split(' ')))
-        data.append((xpos,ypos))
-    solution(data)
+    solution()

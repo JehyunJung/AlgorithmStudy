@@ -1,4 +1,5 @@
-def solution(num):
+def solution():
+    num=int(input())
     stack=[]
     result=[]
     count=1
@@ -18,5 +19,4 @@ def solution(num):
     print(('\n').join(result))
 
 if __name__ =="__main__":
-    num=int(input())
-    solution(num)
+    solution()

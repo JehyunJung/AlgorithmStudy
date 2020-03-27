@@ -1,7 +1,6 @@
 import random
 def partition(data):
     pivot=random.randint(0,len(data)-1)
-    print(pivot)
     left_data=[]
     right_data=[]
     for index in range(len(data)):
@@ -24,10 +23,10 @@ def k_location(data,k):
     else:
         return k_location(data[pivot:],k-pivot)
 
-def solution(data,k):
-    print(k_location(data,k))
-
-if __name__ == "__main__":
+def solution():
     num,k_th=list(map(int,input().split(' ')))
     inputs=list(map(int,input().split(' ')))
-    solution(inputs,k_th)
+    print(k_location(inputs,k_th))
+
+if __name__ == "__main__":
+    solution()

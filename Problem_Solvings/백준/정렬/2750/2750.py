@@ -1,9 +1,9 @@
-def solution(num):
+def solution():
+    num=int(input())
     sort_data=[]
     for count in range(0,num):
         data=int(input())
         sort_data.append(data)
-
 
         key=sort_data[count]
         sorted_index=count-1
@@ -21,4 +21,4 @@ def solution(num):
 
 
 if __name__ == "__main__":
-    solution(int(input()))
+    solution()

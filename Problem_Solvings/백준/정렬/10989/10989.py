@@ -8,7 +8,8 @@ def quickSort(data):
 
     return quickSort(left_data) + [pivot] + quickSort(right_data)
 
-def solution(num):
+def solution():
+    num=int(sys.stdin.readline())
     data_countings=[0]*10001
     for _ in range(num):
         data=int(sys.stdin.readline())
@@ -19,5 +20,4 @@ def solution(num):
 
 
 if __name__ == "__main__":
-    num=int(sys.stdin.readline())
-    solution(num)
+    solution()

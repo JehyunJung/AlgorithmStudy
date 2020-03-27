@@ -1,6 +1,10 @@
-def solution(coordinates, antennas):
-    coordinates.sort()
+def solution():
+    coordinates_num, antenna_num=list(map(int,input().split(' ')))
+    coordinates=[]
+    for _ in range(coordinates_num):
+        coordinates.append(int(input()))
 
+    coordinates.sort()
     start=coordinates[1]-coordinates[0]
     end=coordinates[-1]-coordinates[0]
     result=0
@@ -20,8 +24,4 @@ def solution(coordinates, antennas):
     print(result)
 
 if __name__ == "__main__":
-    point_num, antenna_num=list(map(int,input().split(' ')))
-    inputs=[]
-    for _ in range(point_num):
-        inputs.append(int(input()))
-    solution(inputs,antenna_num)
+    solution()

@@ -9,7 +9,8 @@ def simpleUnion(i,j):
         child[j]+=child[i]
 
 
-def solution(test_cases):
+def solution():
+    test_cases=int(input())
     for i in range(test_cases):
         friend_num=int(input())
         global parent
@@ -31,5 +32,4 @@ def solution(test_cases):
 
 
 if __name__ == "__main__":
-    test_cases=int(input())
-    solution(test_cases)
+    solution()

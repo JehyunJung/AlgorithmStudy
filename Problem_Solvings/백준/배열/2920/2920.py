@@ -1,12 +1,13 @@
 import sys
-def solution(source):
+def solution():
+    data=list(map(int,input().split(' ')))
     ascending=True
     descending=True
 
-    for i in range(len(source)-1):
-        if source[i]<=source[i+1]:
+    for i in range(len(data)-1):
+        if data[i]<=data[i+1]:
             descending=False
-        elif source[i]>=source[i+1]:
+        elif data[i]>=data[i+1]:
             ascending=False
         else:
             break
@@ -19,5 +20,4 @@ def solution(source):
         print('mixed')
 
 if __name__ == "__main__":
-    data=list(map(int,input().split(' ')))
-    solution(data)
+    solution()

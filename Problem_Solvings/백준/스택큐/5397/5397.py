@@ -1,4 +1,5 @@
-def solution(test_cases):
+def solution():
+    test_cases=int(input())
     for _ in range(test_cases):
         leftstack=[]
         rightstack=[]
@@ -19,5 +20,4 @@ def solution(test_cases):
         print(''.join(leftstack))
 
 if __name__ =="__main__":
-    test_cases=int(input())
-    solution(test_cases)
+    solution()

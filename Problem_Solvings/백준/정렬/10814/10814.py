@@ -48,7 +48,13 @@ def quickSort_3(data):
             equal.append(data)
     return quickSort(left) + equal + quickSort(right)
 
-def solution(data):
+def solution():
+    num=int(input())
+    data=[]
+    for _ in range(num):
+        age,name=input().split(' ')
+        data.append((int(age),name))
+
     #sorted_data=quickSort(data)
     #sorted_data=quickSort_2(data,0,len(data)-1)
     sorted_data=quickSort_3(data)
@@ -56,9 +62,4 @@ def solution(data):
         print(element[0],element[1])
 
 if __name__ == "__main__":
-    num=int(input())
-    data=[]
-    for _ in range(num):
-        age,name=input().split(' ')
-        data.append((int(age),name))
-    solution(data)
+    solution()

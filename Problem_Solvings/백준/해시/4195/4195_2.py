@@ -22,7 +22,8 @@ def simpleUnion(parent,child,i,j):
         child[j_root]+=child[i_root]
 
 
-def solution(test_cases):
+def solution():
+    test_cases=int(input())
     for i in range(test_cases):
         friend_num=int(input())
         parent=dict()
@@ -51,5 +52,4 @@ def solution(test_cases):
 
 
 if __name__ == "__main__":
-    test_cases=int(input())
-    solution(test_cases)
+    solution()

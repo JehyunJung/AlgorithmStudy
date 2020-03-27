@@ -47,18 +47,20 @@ def mergeSort(data):
     return merge(left_data,right_data)
 
 
-def solution_2(data):
+def solution_2():
+    string=input()
     for count in range(9,-1,-1):
-        for element in data:
+        for element in string:
             if int(element)==count:
                 print(element,end='')
 
-def solution(string):
+def solution():
+    string=input()
     sort_data=[int(char) for char in string]
     sort_data=mergeSort(sort_data)
     for data in sort_data:
         print(data,end='')
 
 if __name__ == "__main__":
-    solution(input())
-    #solution_2(input())
+    solution()
+    #solution_2()

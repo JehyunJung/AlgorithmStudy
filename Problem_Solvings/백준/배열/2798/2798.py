@@ -1,6 +1,8 @@
 from itertools import combinations
 
-def solution(card_num,card_deck,blackjack):
+def solution():
+    card_num,blackjack=map(int,input().split(' '))
+    card_deck=list(map(int,input().split(' ')))
     card_sets=combinations(card_deck,3)
     current_sum=0
     for card_set in card_sets:
@@ -13,6 +15,4 @@ def solution(card_num,card_deck,blackjack):
     print(current_sum)
 
 if __name__ == "__main__":
-    card_num,blackjack=map(int,input().split(' '))
-    card_deck=list(map(int,input().split(' ')))
-    solution(card_num,card_deck,blackjack)
+    solution()

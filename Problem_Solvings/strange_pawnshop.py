@@ -22,7 +22,7 @@ def solution():
         sub_numbers=combinations(numbers,i)
         for j in sub_numbers:
             sum+=cost(j)
-    return sum
+    print(sum)
 
 if __name__ == "__main__":
-    print(solution())
+    print()

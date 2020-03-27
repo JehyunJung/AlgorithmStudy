@@ -1,4 +1,4 @@
-def solution(array,current,n):
+def evaluator(array,current,n):
     if current==n:
         expression=('').join(array)
         expression+=str(n)
@@ -7,12 +7,15 @@ def solution(array,current,n):
             print(expression)
         return
 
-    solution(array+[str(current)]+[' '],current+1,n)
-    solution(array+[str(current)]+['+'],current+1,n)
-    solution(array+[str(current)]+['-'],current+1,n)
+    evaluator(array+[str(current)]+[' '],current+1,n)
+    evaluator(array+[str(current)]+['+'],current+1,n)
+    evaluator(array+[str(current)]+['-'],current+1,n)
 
-if __name__ =="__main__":
+def solution():
     test_cases=int(input())
     for _ in range(test_cases):
-        solution([],1,int(input()))
+        evaluator([],1,int(input()))
         print()
+
+if __name__ =="__main__":
+    solution()

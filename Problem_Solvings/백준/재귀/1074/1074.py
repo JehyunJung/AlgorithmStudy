@@ -1,4 +1,5 @@
-def solution(space,xpos,ypos):
+def solution():
+    space,ypos,xpos=list(map(int, input().split(' ')))
     space_count=2**space
     space_count*=space_count
 
@@ -29,5 +30,4 @@ def solution(space,xpos,ypos):
     print(count)
 
 if __name__ == "__main__":
-    space,y_pos,x_pos=list(map(int, input().split(' ')))
-    solution(space,x_pos,y_pos)
+    solution()

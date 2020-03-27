@@ -51,14 +51,14 @@ def mergeSort(data):
     right_data=mergeSort(data[medium:])
     return merge(left_data,right_data)
 
-def solution(items):
-    items.sort()
-    for item in items:
-        print(item)
-
-if __name__=="__main__":
+def solution():
     num=int(input())
     inputs=[]
     for _ in range(num):
         inputs.append(int(input()))
-    solution(inputs)
+    inputs.sort()
+    for item in inputs:
+        print(item)
+
+if __name__=="__main__":
+    solution()

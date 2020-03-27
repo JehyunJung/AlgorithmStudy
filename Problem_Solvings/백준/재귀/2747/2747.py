@@ -1,4 +1,3 @@
-import time
 def fibo_1(num):
     if num<=0:
         return 0
@@ -12,7 +11,8 @@ def fibo_2(num):
         fibo_data.append(fibo_data[index-1]+fibo_data[index-2])
     return fibo_data[num]
 
-if __name__ =="__main__":
-    start=time.time()
+def solution():
     print(fibo_2(int(input())))
-    print(time.time()-start," secs passed")
+
+if __name__ =="__main__":
+    solution()

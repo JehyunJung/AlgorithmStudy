@@ -1,4 +1,5 @@
-def solution(num):
+def solution():
+    num=int(input())
     sort_data=[]
     for count in range(0,num):
         sort_data.append(int(input()))
@@ -10,4 +11,4 @@ def solution(num):
 
 
 if __name__ == "__main__":
-    solution(int(input()))
+    solution()
