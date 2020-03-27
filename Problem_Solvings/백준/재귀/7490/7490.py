@@ -6,6 +6,7 @@ def solution(array,current,n):
         if eval(expression.replace(' ',''))==0:
             print(expression)
         return
+
     solution(array+[str(current)]+[' '],current+1,n)
     solution(array+[str(current)]+['+'],current+1,n)
     solution(array+[str(current)]+['-'],current+1,n)
