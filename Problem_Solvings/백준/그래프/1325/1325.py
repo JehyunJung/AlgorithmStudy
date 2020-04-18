@@ -31,7 +31,6 @@ def solution():
     for vertex,component_count in candidates:
         if component_count==max_component:
             results.append(vertex)
-    results.sort()
 
     for vertex in results:
         print(vertex,end=' ')
