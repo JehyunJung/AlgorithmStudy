@@ -37,6 +37,7 @@ def solution():
             edges.append((x,y,get_distance(vertices[x],vertices[y])))
 
     edges.sort(key=lambda x:x[2])
+
     for _ in range(n_edges):
         start,end=map(int,input().split(' '))
         parent_start,parent_end=collapsing_find(start,parents),collapsing_find(end,parents)
