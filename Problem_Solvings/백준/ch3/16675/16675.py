@@ -3,7 +3,6 @@ def solution():
 
     player1_winning=False
     player2_winning=False
-
     if player1_left==player1_right:
         if player1_left=='S' and (player2_left=='R' or player2_right=='R'):
             player2_winning=True

@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="430dee9f-2606-4f37-be32-b0830b21a017" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problem_Solvings/백준/ch2/16769/16769.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_Solvings/백준/ch2/9037/9037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_Solvings/백준/ch3/17413/17413.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_Solvings/백준/ch3/2480/2480.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_Solvings/백준/ch3/2484/2484.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074/1074_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem_Solvings/백준/ch2/16675/16675.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem_Solvings/백준/ch2/16675/question16675.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="10933da5-9ccd-4179-a859-16fb6bb3e89e" />
+  <component name="ProjectId" id="1YIxQ8azitySi0iWn5QxlCYjaBH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problem_Solvings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16308594" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\Algorithm\Problem_Solvings\백준\ch3\2480" />
+      <recent name="E:\Projects\Algorithm\Problem_Solvings" />
+      <recent name="E:\Projects\Algorithm\Problem_Solvings\백준\재귀\2747" />
+      <recent name="E:\Projects\Algorithm\Problem_Solvings\백준\해시\10930" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Algorithm\Problem_Solvings" />
+      <recent name="E:\Projects\Algorithm\Problem_Solvings\백준\백트래킹\1759" />
+      <recent name="E:\Projects\Algorithm\Problem_Solvings\백준\재귀\1074" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.17413">
+    <configuration name="1074_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074/1074_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17413" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_Solvings/백준/ch3/17413" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_Solvings/백준/ch3/17413/17413.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2480" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_Solvings/백준/ch3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Projects\Algorithm\Problem_Solvings\백준\ch3\2480\2480.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2484" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_Solvings/백준/ch3/2484" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_Solvings/백준/ch3/2484/2484.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_Solvings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_Solvings/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.17413" />
+        <item itemvalue="Python.2484" />
+        <item itemvalue="Python.2480" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.1074_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="430dee9f-2606-4f37-be32-b0830b21a017" name="Default Changelist" comment="" />
+      <created>1582643890172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582643890172</updated>
+      <workItem from="1582643892116" duration="2406000" />
+      <workItem from="1583153614115" duration="1346000" />
+      <workItem from="1583218056477" duration="478000" />
+      <workItem from="1583218551395" duration="18000" />
+      <workItem from="1583390347627" duration="2277000" />
+      <workItem from="1583559633935" duration="11000" />
+      <workItem from="1583681935492" duration="1619000" />
+      <workItem from="1584178774927" duration="4289000" />
+      <workItem from="1584324109966" duration="798000" />
+      <workItem from="1584437064573" duration="13281000" />
+      <workItem from="1584517601774" duration="1632000" />
+      <workItem from="1584625831397" duration="4208000" />
+      <workItem from="1584668185726" duration="8565000" />
+      <workItem from="1584784687294" duration="780000" />
+      <workItem from="1584842600390" duration="12458000" />
+      <workItem from="1585014560561" duration="8669000" />
+      <workItem from="1585098963261" duration="1722000" />
+      <workItem from="1585281542751" duration="21394000" />
+      <workItem from="1585572571203" duration="1785000" />
+      <workItem from="1585619373580" duration="7589000" />
+      <workItem from="1585967205071" duration="12687000" />
+      <workItem from="1585994566416" duration="2746000" />
+      <workItem from="1586164271349" duration="10035000" />
+      <workItem from="1586353324634" duration="1890000" />
+      <workItem from="1586400160197" duration="3542000" />
+      <workItem from="1586482659929" duration="5851000" />
+      <workItem from="1586614067283" duration="6549000" />
+      <workItem from="1586860523966" duration="9409000" />
+      <workItem from="1586879202692" duration="475000" />
+      <workItem from="1586911546124" duration="391000" />
+      <workItem from="1587001207805" duration="13312000" />
+      <workItem from="1587178189725" duration="15196000" />
+      <workItem from="1587523261969" duration="2265000" />
+      <workItem from="1587609023632" duration="4709000" />
+      <workItem from="1588093252101" duration="1333000" />
+      <workItem from="1588236179225" duration="4384000" />
+      <workItem from="1588256520444" duration="644000" />
+      <workItem from="1588301751755" duration="855000" />
+      <workItem from="1588306285791" duration="743000" />
+      <workItem from="1588408040014" duration="8203000" />
+      <workItem from="1588436325563" duration="644000" />
+      <workItem from="1588602936979" duration="4621000" />
+      <workItem from="1588689780152" duration="6099000" />
+      <workItem from="1589042434064" duration="717000" />
+      <workItem from="1589443019821" duration="55000" />
+      <workItem from="1589506308030" duration="12074000" />
+      <workItem from="1589599120585" duration="5735000" />
+      <workItem from="1589615951840" duration="1227000" />
+      <workItem from="1589792695075" duration="2446000" />
+      <workItem from="1589795326993" duration="613000" />
+      <workItem from="1590034797598" duration="3469000" />
+      <workItem from="1590045739824" duration="2874000" />
+      <workItem from="1590053476567" duration="1676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582643931017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582643931017" />
+    <state x="561" y="242" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1589793792895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="242" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793792895" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589793210379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793210379" />
+    <state x="775" y="449" key="FileChooserDialogImpl" timestamp="1588306425621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="449" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588306425621" />
+    <state width="1921" height="286" key="GridCell.Tab.0.bottom" timestamp="1590055161872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="286" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590055161872" />
+    <state width="1921" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585985332859" />
+    <state width="1921" height="286" key="GridCell.Tab.0.center" timestamp="1590055161872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="286" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590055161872" />
+    <state width="1921" height="354" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585985332859" />
+    <state width="1921" height="286" key="GridCell.Tab.0.left" timestamp="1590055161871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="286" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590055161871" />
+    <state width="1921" height="354" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585985332859" />
+    <state width="1921" height="286" key="GridCell.Tab.0.right" timestamp="1590055161872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="286" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590055161872" />
+    <state width="1921" height="354" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585985332859" />
+    <state width="1921" height="341" key="GridCell.Tab.1.bottom" timestamp="1590054576697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="341" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590054576697" />
+    <state width="1921" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585985344651" />
+    <state width="1921" height="341" key="GridCell.Tab.1.center" timestamp="1590054576697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="341" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590054576697" />
+    <state width="1921" height="354" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585985344650" />
+    <state width="1921" height="341" key="GridCell.Tab.1.left" timestamp="1590054576697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="341" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590054576697" />
+    <state width="1921" height="354" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585985344650" />
+    <state width="1921" height="341" key="GridCell.Tab.1.right" timestamp="1590054576697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="341" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590054576697" />
+    <state width="1921" height="354" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585985344650" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589793793064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589793793064" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1586871483783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586871483783" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1590045743473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590045743473" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585619375938" />
+    <state x="-1920" y="0" width="1609" height="1048" key="dock-window-1" timestamp="1588604247821">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="0" width="1609" height="1048" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588604247821" />
+    <state x="339" y="108" key="new project wizard" timestamp="1588302005982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="108" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588302005982" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589792759777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589792759777" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data_Structure/heap.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data_Structure/heap.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data_Structure/heap.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic_Algorithm/Kruskal.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic_Algorithm/Kruskal.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic_Algorithm/Kruskal.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic_Algorithm/Kruskal.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/스택큐/1966/1966.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/해시/4195/4195.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/해시/4195/4195.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/해시/4195/4195.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/2750/2750.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/1427/1427.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/1427/1427.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/1427/1427.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/1427/1427.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/1427/1427.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/1427/1427.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/11650/11650.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/정렬/11650/11650.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074/1074.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074/1074.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074/1074_2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/재귀/7490/7490.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급정렬/11004/11004.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급정렬/11004/11004.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/탐색/2110/2110.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/탐색/1939/1939.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/탐색/1939/1939.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/탐색/1939/1939.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/탐색/1543/1543.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1991/1991.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1991/1991.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1991/1991.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/2250/2250.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1927/1927.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1927/1927.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1927/1927.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1715/1715.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/1904/1904.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/12865/12865.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/12865/12865.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/11053/11503.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/1495/1495_2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/1495/1495_2.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/2655/2655.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/1260/1260.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/1697/1697.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/1012/1012.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/1325/1325.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/10282/10282.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/5719/5719.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/5719/5719.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/5719/5719.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/1774/1774.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그래프/10282/10282.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그리디/1439/1439.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그리디/1781/1781.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그리디/1781/1781_2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/그리디/1461/1461.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/9663/9663.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/9663/9663.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/9663/9663.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/9663/9663.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/1987/1987.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/1987/1987.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/1759/1759.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/1759/1759.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/ch2/10539/10539.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/ch2/17224/17224.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/ch2/17224/17224.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/ch2/9037/9037.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/ch2/9037/9037.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/ch2/16769/16769.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_Solvings/백준/ch3/17413/17413.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="choices" language="Python" />
+        <watch expression="consonants" language="Python" />
+        <watch expression="vowels" language="Python" />
+        <watch expression="string[index]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$2751.coverage" NAME="2751 Coverage Results" MODIFIED="1585284371176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/고급정렬/2751" />
+    <SUITE FILE_PATH="coverage/Algorithm$1668.coverage" NAME="1668 Coverage Results" MODIFIED="1585624375163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/탐색/1668" />
+    <SUITE FILE_PATH="coverage/Algorithm$2212.coverage" NAME="2212 Coverage Results" MODIFIED="1588256997492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그리디/2212" />
+    <SUITE FILE_PATH="coverage/Algorithm$1074.coverage" NAME="1074 Coverage Results" MODIFIED="1585322159548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074" />
+    <SUITE FILE_PATH="coverage/Algorithm$1766.coverage" NAME="1766 Coverage Results" MODIFIED="1586182635794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1766" />
+    <SUITE FILE_PATH="coverage/Algorithm$5585.coverage" NAME="5585 Coverage Results" MODIFIED="1588093604434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그리디/5585" />
+    <SUITE FILE_PATH="coverage/Algorithm$prime_test.coverage" NAME="prime_test Coverage Results" MODIFIED="1588695763941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/백트래킹" />
+    <SUITE FILE_PATH="coverage/Algorithm$1092.coverage" NAME="1092 Coverage Results" MODIFIED="1588254845962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그리디/1092" />
+    <SUITE FILE_PATH="coverage/Algorithm$1325.coverage" NAME="1325 Coverage Results" MODIFIED="1587180678193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/1325" />
+    <SUITE FILE_PATH="coverage/Algorithm$9251.coverage" NAME="9251 Coverage Results" MODIFIED="1586620309710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/9251" />
+    <SUITE FILE_PATH="coverage/Algorithm$1543.coverage" NAME="1543 Coverage Results" MODIFIED="1585619967330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/탐색/1543" />
+    <SUITE FILE_PATH="coverage/Algorithm$15969.coverage" NAME="15969 Coverage Results" MODIFIED="1589512848360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/15969" />
+    <SUITE FILE_PATH="coverage/Algorithm$12865.coverage" NAME="12865 Coverage Results" MODIFIED="1586487735312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/12865" />
+    <SUITE FILE_PATH="coverage/Algorithm$1904.coverage" NAME="1904 Coverage Results" MODIFIED="1586483778438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/1904" />
+    <SUITE FILE_PATH="coverage/Algorithm$10814.coverage" NAME="10814 Coverage Results" MODIFIED="1585322727596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/정렬/10814" />
+    <SUITE FILE_PATH="coverage/Algorithm$16675.coverage" NAME="16675 Coverage Results" MODIFIED="1589562740330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/16675" />
+    <SUITE FILE_PATH="coverage/Algorithm$9037.coverage" NAME="9037 Coverage Results" MODIFIED="1589601998427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/9037" />
+    <SUITE FILE_PATH="coverage/Algorithm$7490.coverage" NAME="7490 Coverage Results" MODIFIED="1585322337401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/재귀/7490" />
+    <SUITE FILE_PATH="coverage/Algorithm$1495_2.coverage" NAME="1495_2 Coverage Results" MODIFIED="1586870674289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/1495" />
+    <SUITE FILE_PATH="coverage/Algorithm$1874.coverage" NAME="1874 Coverage Results" MODIFIED="1584444066400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/스택/1874" />
+    <SUITE FILE_PATH="coverage/Algorithm$10930.coverage" NAME="10930 Coverage Results" MODIFIED="1584627364975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/해시" />
+    <SUITE FILE_PATH="coverage/Algorithm$heap.coverage" NAME="heap Coverage Results" MODIFIED="1583391876687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Structure" />
+    <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1590035458056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings" />
+    <SUITE FILE_PATH="coverage/Algorithm$2012.coverage" NAME="2012 Coverage Results" MODIFIED="1588094545543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그리디/2012" />
+    <SUITE FILE_PATH="coverage/Algorithm$17413.coverage" NAME="17413 Coverage Results" MODIFIED="1590055161862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch3/17413" />
+    <SUITE FILE_PATH="coverage/Algorithm$1715.coverage" NAME="1715 Coverage Results" MODIFIED="1586170032036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1715" />
+    <SUITE FILE_PATH="coverage/Algorithm$1074_2.coverage" NAME="1074_2 Coverage Results" MODIFIED="1585322151882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074" />
+    <SUITE FILE_PATH="coverage/Algorithm$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1586879661726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/1260" />
+    <SUITE FILE_PATH="coverage/Algorithm$1302.coverage" NAME="1302 Coverage Results" MODIFIED="1585622975266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/탐색/1302" />
+    <SUITE FILE_PATH="coverage/Algorithm$17224.coverage" NAME="17224 Coverage Results" MODIFIED="1589561937370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/17224" />
+    <SUITE FILE_PATH="coverage/Algorithm$1074_3.coverage" NAME="1074_3 Coverage Results" MODIFIED="1589792878818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/재귀/1074" />
+    <SUITE FILE_PATH="coverage/Algorithm$11650.coverage" NAME="11650 Coverage Results" MODIFIED="1584854493684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/정렬/11650" />
+    <SUITE FILE_PATH="coverage/Algorithm$1236.coverage" NAME="1236 Coverage Results" MODIFIED="1585626675162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/탐색/1236" />
+    <SUITE FILE_PATH="coverage/Algorithm$1461.coverage" NAME="1461 Coverage Results" MODIFIED="1588431601816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그리디/1461" />
+    <SUITE FILE_PATH="coverage/Algorithm$16769.coverage" NAME="16769 Coverage Results" MODIFIED="1589602683142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/16769" />
+    <SUITE FILE_PATH="coverage/Algorithm$1987.coverage" NAME="1987 Coverage Results" MODIFIED="1588604848119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/1987" />
+    <SUITE FILE_PATH="coverage/Algorithm$1781.coverage" NAME="1781 Coverage Results" MODIFIED="1588429615172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그리디/1781" />
+    <SUITE FILE_PATH="coverage/Algorithm$2484.coverage" NAME="2484 Coverage Results" MODIFIED="1590037869007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch3/2484" />
+    <SUITE FILE_PATH="coverage/Algorithm$2798.coverage" NAME="2798 Coverage Results" MODIFIED="1585321430384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/배열/2798" />
+    <SUITE FILE_PATH="coverage/Algorithm$17389.coverage" NAME="17389 Coverage Results" MODIFIED="1589517260070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/17389" />
+    <SUITE FILE_PATH="coverage/Algorithm$11004.coverage" NAME="11004 Coverage Results" MODIFIED="1585321746282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/고급정렬/11004" />
+    <SUITE FILE_PATH="coverage/Algorithm$1697.coverage" NAME="1697 Coverage Results" MODIFIED="1587003622599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/1697" />
+    <SUITE FILE_PATH="coverage/Algorithm$1927.coverage" NAME="1927 Coverage Results" MODIFIED="1586166541020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1927" />
+    <SUITE FILE_PATH="coverage/Algorithm$10282.coverage" NAME="10282 Coverage Results" MODIFIED="1587182961630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/10282" />
+    <SUITE FILE_PATH="coverage/Algorithm$9663.coverage" NAME="9663 Coverage Results" MODIFIED="1588434025028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/9663" />
+    <SUITE FILE_PATH="coverage/Algorithm$11503.coverage" NAME="11503 Coverage Results" MODIFIED="1586616098542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/11053" />
+    <SUITE FILE_PATH="coverage/Algorithm$1774.coverage" NAME="1774 Coverage Results" MODIFIED="1587524205824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/1774" />
+    <SUITE FILE_PATH="coverage/Algorithm$16165.coverage" NAME="16165 Coverage Results" MODIFIED="1589517448525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/16165" />
+    <SUITE FILE_PATH="coverage/Algorithm$1495.coverage" NAME="1495_2 Coverage Results" MODIFIED="1586622185313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/1495" />
+    <SUITE FILE_PATH="coverage/Algorithm$2250.coverage" NAME="2250 Coverage Results" MODIFIED="1586014774399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/2250" />
+    <SUITE FILE_PATH="coverage/Algorithm$17269.coverage" NAME="17269 Coverage Results" MODIFIED="1589516630561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/17269" />
+    <SUITE FILE_PATH="coverage/Algorithm$strange_pawnshop.coverage" NAME="strange_pawnshop Coverage Results" MODIFIED="1583154859851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programming_Tasks" />
+    <SUITE FILE_PATH="coverage/Algorithm$1568.coverage" NAME="1568 Coverage Results" MODIFIED="1585623911179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/탐색/1568" />
+    <SUITE FILE_PATH="coverage/Algorithm$4195.coverage" NAME="4195 Coverage Results" MODIFIED="1584844052156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/해시/4195" />
+    <SUITE FILE_PATH="coverage/Algorithm$2750.coverage" NAME="2750 Coverage Results" MODIFIED="1584844458399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/정렬/2750" />
+    <SUITE FILE_PATH="coverage/Algorithm$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1587024834794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/1012" />
+    <SUITE FILE_PATH="coverage/Algorithm$2655.coverage" NAME="2655 Coverage Results" MODIFIED="1588436909816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/동적계획법/2655" />
+    <SUITE FILE_PATH="coverage/Algorithm$1939.coverage" NAME="1939 Coverage Results" MODIFIED="1585321387147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/탐색/1939" />
+    <SUITE FILE_PATH="coverage/Algorithm$5397.coverage" NAME="5397 Coverage Results" MODIFIED="1584457304147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/스택큐/5397" />
+    <SUITE FILE_PATH="coverage/Algorithm$2480.coverage" NAME="2480 Coverage Results" MODIFIED="1590036705557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch3" />
+    <SUITE FILE_PATH="coverage/Algorithm$1427.coverage" NAME="1427 Coverage Results" MODIFIED="1584847544160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/정렬/1427" />
+    <SUITE FILE_PATH="coverage/Algorithm$1697_2.coverage" NAME="1697_2 Coverage Results" MODIFIED="1587011437461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/1697" />
+    <SUITE FILE_PATH="coverage/Algorithm$1966.coverage" NAME="1966 Coverage Results" MODIFIED="1584455610906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/스택큐/1966" />
+    <SUITE FILE_PATH="coverage/Algorithm$2747.coverage" NAME="2747 Coverage Results" MODIFIED="1585322211000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/재귀/2747" />
+    <SUITE FILE_PATH="coverage/Algorithm$2110.coverage" NAME="2110 Coverage Results" MODIFIED="1585572605803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/탐색/2110" />
+    <SUITE FILE_PATH="coverage/Algorithm$1439.coverage" NAME="1439 Coverage Results" MODIFIED="1588093662545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그리디/1439" />
+    <SUITE FILE_PATH="coverage/Algorithm$1759.coverage" NAME="1759 Coverage Results" MODIFIED="1588607474688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/백트래킹/1759" />
+    <SUITE FILE_PATH="coverage/Algorithm$1781_2.coverage" NAME="1781_2 Coverage Results" MODIFIED="1588431369916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그리디/1781" />
+    <SUITE FILE_PATH="coverage/Algorithm$2920.coverage" NAME="2920 Coverage Results" MODIFIED="1585321609373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/배열/2920" />
+    <SUITE FILE_PATH="coverage/Algorithm$1920.coverage" NAME="1920 Coverage Results" MODIFIED="1584627917526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/해시/1920" />
+    <SUITE FILE_PATH="coverage/Algorithm$Kruskal.coverage" NAME="Kruskal Coverage Results" MODIFIED="1583683094464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Algorithm" />
+    <SUITE FILE_PATH="coverage/Algorithm$10539.coverage" NAME="10539 Coverage Results" MODIFIED="1589513523063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/ch2/10539" />
+    <SUITE FILE_PATH="coverage/Algorithm$5719.coverage" NAME="5719 Coverage Results" MODIFIED="1587189181181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/5719" />
+    <SUITE FILE_PATH="coverage/Algorithm$10989.coverage" NAME="10989 Coverage Results" MODIFIED="1585057963683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/정렬/10989" />
+    <SUITE FILE_PATH="coverage/Algorithm$2606.coverage" NAME="2606 Coverage Results" MODIFIED="1587011896668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/그래프/2606" />
+    <SUITE FILE_PATH="coverage/Algorithm$1002.coverage" NAME="1002 Coverage Results" MODIFIED="1589563748382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/1002" />
+    <SUITE FILE_PATH="coverage/Algorithm$1991.coverage" NAME="1991 Coverage Results" MODIFIED="1585977991224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem_Solvings/백준/고급탐색/1991" />
+  </component>
+</project>
